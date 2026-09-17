@@ -1,4 +1,4 @@
-Interested in automating the little annoyances away, data analytics, and doing fun things with code.
+Interested in automating little annoyances away, data analytics, and doing fun things with code.
 
 <!---
 nocalla/nocalla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
